@@ -1,3 +1,3 @@
 # COMP2101
 
-This the wednesday class repe
+This the wednesday class repo
